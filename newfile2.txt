@@ -11,5 +11,4 @@ I am in Dev2 branch
 Issue update 1234
 
 Update
-=======
->>>>>>> ff8f4be Commited by Sandesh
+
