@@ -11,4 +11,8 @@ Issue update 1234
 
 Update
 
+<<<<<<< HEAD
 I have updated this file for project
+=======
+I have updated this file for project
+>>>>>>> 501f7287f243478c6ab601d471cc7b463f9448ca

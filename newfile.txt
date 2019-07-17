@@ -6,4 +6,8 @@ More Heck
 how heck creates heck
 heck is all of heck
 By Ganesh Babu
+<<<<<<< HEAD
 Pramodh 
+=======
+Pramodh 1234
+>>>>>>> 501f7287f243478c6ab601d471cc7b463f9448ca
