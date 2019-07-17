@@ -3,4 +3,11 @@ This is another new file
 I have added a new line in dev2 branch
 
 Changes for Project one Updated
+
+I am in Dev2 branch
+
 Issue update 1234
+
+Update
+
+I have updated this file for project
